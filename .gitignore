@@ -1,0 +1,9 @@
+backend/node_modules
+*.swo
+*.swp
+backend/.env
+node_modules
+/backend/public/uploads/*
+.DS_Store
+/backend/public/.DS_Store
+.env
